@@ -1,6 +1,6 @@
 galaxy_info:
   author: Petr Kamenev
-  description: Filebeat role
+  description: filebeat role
   company: -
 
   # If the issue tracker for your role is not on github, uncomment the
